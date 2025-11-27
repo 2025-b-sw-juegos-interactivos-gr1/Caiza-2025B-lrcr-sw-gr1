@@ -1,0 +1,11 @@
+Model Information:
+* title:	Casa
+* source:	https://sketchfab.com/3d-models/casa-83b541517e4047f1bbc94e717ac482c7
+* author:	Jéssica Magno (https://sketchfab.com/jessica_magno)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Casa" (https://sketchfab.com/3d-models/casa-83b541517e4047f1bbc94e717ac482c7) by Jéssica Magno (https://sketchfab.com/jessica_magno) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)

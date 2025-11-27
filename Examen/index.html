@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Camión de Basura - Recolección Urbana</title>
+        <link rel="stylesheet" type="text/css" href="styles.css">
+        <script src="https://cdn.babylonjs.com/babylon.js"></script>
+        <script src="https://cdn.babylonjs.com/loaders/babylonjs.loaders.min.js"></script>
+        </head>
+
+        <body>
+        <canvas id="renderCanvas"></canvas>
+
+        <!-- HUD contador -->
+        <div id="hudCounter">0 / 6</div>
+
+        <!-- HUD instrucciones -->
+        <div id="hudInstructions">
+            <div class="instruction-item"><strong>WASD</strong> - Mover camión</div>
+            <div class="instruction-item"><strong>ESPACIO</strong> - Recoger/Soltar bolsa</div>
+            <div class="instruction-item">🎯 Objetivo: <strong>6 bolsas</strong></div>
+        </div>
+
+        <!-- escena -->
+        <script src="scene.js"></script>
+        <script src="business.js"></script>
+        </body>
+        </html>

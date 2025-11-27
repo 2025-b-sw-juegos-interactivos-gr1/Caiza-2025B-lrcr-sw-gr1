@@ -1,0 +1,11 @@
+Model Information:
+* title:	Garbage Container_20MB
+* source:	https://sketchfab.com/3d-models/garbage-container-20mb-ada9c4e8ad4d463dafb1f6fd03c13c55
+* author:	Mehdi Shahsavan (https://sketchfab.com/ahmagh2e)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Garbage Container_20MB" (https://sketchfab.com/3d-models/garbage-container-20mb-ada9c4e8ad4d463dafb1f6fd03c13c55) by Mehdi Shahsavan (https://sketchfab.com/ahmagh2e) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
